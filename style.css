@@ -1,0 +1,35 @@
+
+h1 {
+    color: brown;
+}
+
+.header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    font-size: xx-small;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border:solid cadetblue;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
+
+body{
+
+ background-color: #cfeb4b;
+ background-image: url("fb.png");
+ background-size: 0.1cm;
+}
